@@ -1,0 +1,35 @@
+body {
+  background-color: yellow;
+}
+
+header {
+  color: teal;
+  font-family: fantasy;
+  text-align: center;
+  text-shadow: 2px -1px;
+  border-bottom: solid black 5px;
+  padding-top: 5px;
+}
+
+.logo {
+  border: grey 5px solid;
+  height: 90px;
+  background-color: silver;
+}
+
+main {
+  padding-top: 10px;
+}
+
+ul {
+  padding-right: 50px;
+  border-right: black 5px solid;
+}
+
+.intro {
+  padding-top: 50px;
+  font-size: 50px;
+  color: tomato;
+  font-family: fantasy;
+  padding-left: 400px;
+}
