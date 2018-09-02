@@ -3,7 +3,7 @@ body {
 }
 
 header {
-  color: teal;
+  color: tomato;
   font-family: fantasy;
   text-align: center;
   text-shadow: 2px -1px;
@@ -18,12 +18,14 @@ header {
 }
 
 main {
-  padding-top: 10px;
+  padding-top: 0px;
 }
 
 ul {
   padding-right: 50px;
   border-right: black 5px solid;
+  padding-bottom: 30px;
+  border-bottom: black 5px solid;
 }
 
 .intro {
@@ -32,4 +34,30 @@ ul {
   color: tomato;
   font-family: fantasy;
   padding-left: 400px;
+  text-align: left;
+}
+
+.intro p {
+  color: black;
+  font-size: 25px;
+  font-style:italic;
+  text-align: left;
+}
+
+section {
+  padding-top: 20px;
+}
+
+.food-video {
+  padding-bottom: 27px;
+}
+
+.drink-and-sport-videos {
+  padding-bottom: 17px;
+}
+
+.other-videos {
+  text-align: center;
+  border: black 5px solid;
+  margin-left: 287px;
 }
